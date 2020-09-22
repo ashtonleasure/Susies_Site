@@ -88,7 +88,10 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
+<<<<<<< HEAD
 
 
-/** Avoid FTP credentials when downloading a new theme **/
+Avoid FTP credentials when downloading a new theme
 define( 'FS_METHOD', 'direct' );
+=======
+>>>>>>> a2e6d683b3d3f4983abffed32487fdd7bd0f9db5
