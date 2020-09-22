@@ -1,0 +1,3075 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bramble v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-8 13:45-0500\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:15
+msgid ""
+"The page you are looking for could not be found. Try a different address, or "
+"search using the form below."
+msgstr ""
+
+#: archive.php:22
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:25
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:28
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:28
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:31
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:31
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:34
+msgid "Asides"
+msgstr ""
+
+#: archive.php:37
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:40
+msgid "Images"
+msgstr ""
+
+#: archive.php:43
+msgid "Videos"
+msgstr ""
+
+#: archive.php:46
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:49 inc/customizer.php:1040 inc/google-fonts/gfonts.class.php:61
+msgid "Links"
+msgstr ""
+
+#: archive.php:52
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:55
+msgid "Audios"
+msgstr ""
+
+#: archive.php:58
+msgid "Chats"
+msgstr ""
+
+#: archive.php:61 inc/customizer.php:704
+msgid "Archives"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:64 inc/google-fonts/gfonts.class.php:66 inc/metaboxes.php:77
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:65
+msgid "Slide Panel Desktop"
+msgstr ""
+
+#: functions.php:66
+msgid "Slide Panel Mobile"
+msgstr ""
+
+#: functions.php:67
+msgid "Left Menu (Split Header)"
+msgstr ""
+
+#: functions.php:907
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:909
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:49 searchform-header.php:9 searchform.php:7
+msgid "Type and press enter to search."
+msgstr ""
+
+#: header.php:137 inc/woocommerce-functions.php:108
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:82
+msgid "Test Metabox"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:93 inc/CMB2/example-functions.php:380
+msgid "Test Text"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:94 inc/CMB2/example-functions.php:106
+#: inc/CMB2/example-functions.php:114 inc/CMB2/example-functions.php:122
+#: inc/CMB2/example-functions.php:131 inc/CMB2/example-functions.php:139
+#: inc/CMB2/example-functions.php:153 inc/CMB2/example-functions.php:160
+#: inc/CMB2/example-functions.php:168 inc/CMB2/example-functions.php:185
+#: inc/CMB2/example-functions.php:194 inc/CMB2/example-functions.php:202
+#: inc/CMB2/example-functions.php:209 inc/CMB2/example-functions.php:216
+#: inc/CMB2/example-functions.php:230 inc/CMB2/example-functions.php:243
+#: inc/CMB2/example-functions.php:256 inc/CMB2/example-functions.php:268
+#: inc/CMB2/example-functions.php:277 inc/CMB2/example-functions.php:285
+#: inc/CMB2/example-functions.php:294 inc/CMB2/example-functions.php:301
+#: inc/CMB2/example-functions.php:315 inc/CMB2/example-functions.php:381
+#: inc/CMB2/example-functions.php:476 inc/CMB2/example-functions.php:484
+#: inc/CMB2/example-functions.php:491 inc/CMB2/example-functions.php:498
+#: inc/CMB2/example-functions.php:505 inc/CMB2/example-functions.php:512
+#: inc/CMB2/example-functions.php:519 inc/CMB2/example-functions.php:557
+msgid "field description (optional)"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:105
+msgid "Test Text Small"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:113
+msgid "Test Text Medium"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:121
+msgid "Website URL"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:130
+msgid "Test Text Email"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:138
+msgid "Test Time"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:145 inc/CMB2/example-functions.php:146
+msgid "Time zone"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:152
+msgid "Test Date Picker"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:159
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:167
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:184
+msgid "Test Money"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:193
+msgid "Test Color Picker"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:201
+msgid "Test Text Area"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:208
+msgid "Test Text Area Small"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:215
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:222
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:223
+msgid "This is a title description"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:229
+msgid "Test Select"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:235 inc/CMB2/example-functions.php:248
+#: inc/CMB2/example-functions.php:260
+msgid "Option One"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:236 inc/CMB2/example-functions.php:249
+#: inc/CMB2/example-functions.php:261
+msgid "Option Two"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:237 inc/CMB2/example-functions.php:250
+#: inc/CMB2/example-functions.php:262
+msgid "Option Three"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:242
+msgid "Test Radio inline"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:255
+msgid "Test Radio"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:267
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:276
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:284
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:293
+msgid "Test Checkbox"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:300
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:306
+msgid "Check One"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:307
+msgid "Check Two"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:308
+msgid "Check Three"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:314
+msgid "Test wysiwyg"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:322
+msgid "Test Image"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:323 inc/metaboxes.php:167
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: inc/CMB2/example-functions.php:329
+msgid "Multiple Files"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:330
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: inc/CMB2/example-functions.php:337
+msgid "oEmbed"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:338
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/"
+"Embeds</a>."
+msgstr ""
+
+#: inc/CMB2/example-functions.php:371
+msgid "About Page Metabox"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:402
+msgid "Repeating Field Group"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:410
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:412
+msgid "Entry {#}"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:413
+msgid "Add Another Entry"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:414
+msgid "Remove Entry"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:427
+msgid "Entry Title"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:434
+msgid "Description"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:435
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:441
+msgid "Entry Image"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:447
+msgid "Image Caption"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:468
+msgid "User Profile Metabox"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:475
+msgid "Extra Info"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:483
+msgid "Avatar"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:490
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:497
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:504
+msgid "Google+ URL"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:511
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:518
+msgid "User Field"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:541
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: inc/CMB2/example-functions.php:556
+msgid "Site Background Color"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2.php:120
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2.php:332
+msgid "Click to toggle"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Ajax.php:135
+msgid "Remove Embed"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Ajax.php:139
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Field.php:955
+msgid "Add Group"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Field.php:956
+msgid "Remove Group"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Field.php:978 inc/CMB2/includes/CMB2_Field.php:982
+#: inc/custom-page-builder.php:159
+msgid "None"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:86 inc/CMB2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:87 inc/metaboxes.php:42 inc/metaboxes.php:151
+#: inc/metaboxes.php:213
+msgid "Default"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:118 inc/CMB2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:127 inc/plugins/siteorigin-panels.php:322
+msgid "Now"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:137 inc/CMB2/includes/CMB2_Types.php:1004
+msgid "Remove Image"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:138 inc/CMB2/includes/CMB2_Types.php:357
+#: inc/CMB2/includes/CMB2_Types.php:1023
+msgid "Remove"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:139 inc/CMB2/includes/CMB2_Types.php:1018
+msgid "File:"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:140 inc/CMB2/includes/CMB2_Types.php:1021
+msgid "Download"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Types.php:298 inc/plugins/siteorigin-panels.php:379
+msgid "Add Row"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Types.php:749 inc/CMB2/includes/CMB2_Types.php:797
+msgid "No terms"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Types.php:864
+msgid "Add or Upload Files"
+msgstr ""
+
+#: inc/CMB2/includes/CMB2_Types.php:926
+msgid "Add or Upload File"
+msgstr ""
+
+#: inc/CMB2/includes/helper-functions.php:250
+msgid "Save"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:51
+msgid "Projects"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:52
+msgid "Project"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:53 inc/class-testimonial-cpt.php:40
+msgid "Add New"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:54
+msgid "Add New Project"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:55
+msgid "Edit"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:56
+msgid "Edit Project"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:57
+msgid "New Project"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:58 inc/class-portfolio-cpt.php:59
+msgid "View Project"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:60
+msgid "Search Projects"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:61
+msgid "No projects found"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:62
+msgid "No projects found in Trash"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:63
+msgid "Parent Project"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:97 inc/class-portfolio-cpt.php:212
+msgid "Skills"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:98
+msgid "Skill"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:99
+msgid "Search Skills"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:100
+msgid "All Skills"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:101
+msgid "Parent Skill"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:102
+msgid "Parent Skill:"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:103
+msgid "Edit Skill"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:104
+msgid "Update Skill"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:105
+msgid "Add New Skill"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:106
+msgid "New Skill Name"
+msgstr ""
+
+#: inc/class-portfolio-cpt.php:152
+msgid "Associated Skills"
+msgstr ""
+
+#: inc/class-testimonial-cpt.php:36 inc/class-testimonial-cpt.php:37
+msgid "Testimonials"
+msgstr ""
+
+#: inc/class-testimonial-cpt.php:38
+msgid "Testimonial"
+msgstr ""
+
+#: inc/class-testimonial-cpt.php:39
+msgid "All Testimonials"
+msgstr ""
+
+#: inc/class-testimonial-cpt.php:41
+msgid "Add New Testimonial"
+msgstr ""
+
+#: inc/class-testimonial-cpt.php:42
+msgid "Edit Testimonial"
+msgstr ""
+
+#: inc/class-testimonial-cpt.php:43
+msgid "New Testimonial"
+msgstr ""
+
+#: inc/class-testimonial-cpt.php:44
+msgid "View Testimonial"
+msgstr ""
+
+#: inc/class-testimonial-cpt.php:45
+msgid "Search Testimonials"
+msgstr ""
+
+#: inc/class-testimonial-cpt.php:46
+msgid "No testimonials found"
+msgstr ""
+
+#: inc/class-testimonial-cpt.php:47
+msgid "No testimonials found in Trash"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:301
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:302
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:303
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:304
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:306
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:311
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:316
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:321
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:326
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:331
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:346
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:351
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:356
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:361
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:365
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:366
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:367
+#: inc/class-tgm-plugin-activation.php:2957
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:368
+#: inc/class-tgm-plugin-activation.php:2785
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:369
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:370
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:372
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:373
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:488
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:489
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:603
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:796
+#: inc/class-tgm-plugin-activation.php:3362
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:903
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:903
+#: inc/class-tgm-plugin-activation.php:906
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:906
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1084
+#: inc/class-tgm-plugin-activation.php:2781
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1849
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2120
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2123
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2139
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2142
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2145
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2162
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2166
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2168
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2174
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2177
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2180
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2188
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2233
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2236
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2239
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2242
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2324
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2332
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2340
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2352
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2375
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2389
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2390
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2391
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2395
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2396
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2444
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2448
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2453
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2523
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2556
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2562
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2565
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2596
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2598
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2634
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2636
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2741
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2767
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2956
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3286
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3288
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3289
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3293
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3294
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3294
+#: inc/class-tgm-plugin-activation.php:3300
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3294
+#: inc/class-tgm-plugin-activation.php:3300
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3295
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3296
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3299
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3300
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3301
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3302
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/custom-page-builder.php:47
+msgid "Custom ID"
+msgstr ""
+
+#: inc/custom-page-builder.php:54
+msgid "Equal Column Height"
+msgstr ""
+
+#: inc/custom-page-builder.php:60 inc/metaboxes.php:118 inc/metaboxes.php:134
+#: inc/metaboxes.php:177 inc/metaboxes.php:266 inc/metaboxes.php:317
+#: inc/metaboxes.php:327 inc/metaboxes.php:383
+msgid "No"
+msgstr ""
+
+#: inc/custom-page-builder.php:61 inc/metaboxes.php:117 inc/metaboxes.php:135
+#: inc/metaboxes.php:178 inc/metaboxes.php:265 inc/metaboxes.php:316
+#: inc/metaboxes.php:328 inc/metaboxes.php:384
+msgid "Yes"
+msgstr ""
+
+#: inc/custom-page-builder.php:66
+msgid "Padding Top"
+msgstr ""
+
+#: inc/custom-page-builder.php:72
+msgid "Padding Bottom"
+msgstr ""
+
+#: inc/custom-page-builder.php:78
+msgid "Padding Left"
+msgstr ""
+
+#: inc/custom-page-builder.php:84
+msgid "Padding Right"
+msgstr ""
+
+#: inc/custom-page-builder.php:90
+msgid "Background Image"
+msgstr ""
+
+#: inc/custom-page-builder.php:96
+msgid "Background Image Position"
+msgstr ""
+
+#: inc/custom-page-builder.php:102
+msgid "Left Top"
+msgstr ""
+
+#: inc/custom-page-builder.php:103
+msgid "Left Center"
+msgstr ""
+
+#: inc/custom-page-builder.php:104
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/custom-page-builder.php:105
+msgid "Center Top"
+msgstr ""
+
+#: inc/custom-page-builder.php:106
+msgid "Center Center"
+msgstr ""
+
+#: inc/custom-page-builder.php:107
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/custom-page-builder.php:108
+msgid "Right Top"
+msgstr ""
+
+#: inc/custom-page-builder.php:109
+msgid "Right Center"
+msgstr ""
+
+#: inc/custom-page-builder.php:110
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/custom-page-builder.php:114
+msgid "Background Image Style"
+msgstr ""
+
+#: inc/custom-page-builder.php:120
+msgid "Cover"
+msgstr ""
+
+#: inc/custom-page-builder.php:121
+msgid "Parallax"
+msgstr ""
+
+#: inc/custom-page-builder.php:122
+msgid "No Repeat"
+msgstr ""
+
+#: inc/custom-page-builder.php:123
+msgid "Repeat"
+msgstr ""
+
+#: inc/custom-page-builder.php:124
+msgid "Repeat-X"
+msgstr ""
+
+#: inc/custom-page-builder.php:125
+msgid "Repeat-y"
+msgstr ""
+
+#: inc/custom-page-builder.php:129
+msgid "Border Top Size"
+msgstr ""
+
+#: inc/custom-page-builder.php:135
+msgid "Border Top Color"
+msgstr ""
+
+#: inc/custom-page-builder.php:141
+msgid "Border Bottom Size"
+msgstr ""
+
+#: inc/custom-page-builder.php:147
+msgid "Border Bottom Color"
+msgstr ""
+
+#: inc/custom-page-builder.php:153
+msgid "Canvas Animation Effect"
+msgstr ""
+
+#: inc/custom-page-builder.php:160
+msgid "Constellation"
+msgstr ""
+
+#: inc/custom-page-builder.php:293
+msgid "Home: Agency"
+msgstr ""
+
+#: inc/custom-page-builder.php:294
+msgid "Layout for demo Home: Agency"
+msgstr ""
+
+#: inc/custom-page-builder.php:1142
+msgid "Home: Business"
+msgstr ""
+
+#: inc/custom-page-builder.php:1143
+msgid "Layout for demo Home: Business"
+msgstr ""
+
+#: inc/custom-page-builder.php:1684
+msgid "Home: App"
+msgstr ""
+
+#: inc/custom-page-builder.php:1685
+msgid "Layout for demo Home: App"
+msgstr ""
+
+#: inc/custom-page-builder.php:2364
+msgid "Home: Blocks"
+msgstr ""
+
+#: inc/custom-page-builder.php:2365
+msgid "Layout for demo Home: Blocks"
+msgstr ""
+
+#: inc/custom-page-builder.php:2690
+msgid "Home: Freelancer"
+msgstr ""
+
+#: inc/custom-page-builder.php:2691
+msgid "Layout for demo Home: Freelancer"
+msgstr ""
+
+#: inc/custom-page-builder.php:3249
+msgid "Home: One Page"
+msgstr ""
+
+#: inc/custom-page-builder.php:3250
+msgid "Layout for demo Home: One Page"
+msgstr ""
+
+#: inc/custom-page-builder.php:3868
+msgid "Home: Portfolio"
+msgstr ""
+
+#: inc/custom-page-builder.php:3869
+msgid "Layout for demo Home: Portfolio"
+msgstr ""
+
+#: inc/custom-page-builder.php:3981
+msgid "Home: Professional"
+msgstr ""
+
+#: inc/custom-page-builder.php:3982
+msgid "Layout for demo Home: Professional"
+msgstr ""
+
+#: inc/custom-page-builder.php:4638
+msgid "Home: Shop"
+msgstr ""
+
+#: inc/custom-page-builder.php:4639
+msgid "Layout for demo Home: Shop"
+msgstr ""
+
+#: inc/custom-page-builder.php:4908
+msgid "Contact Page"
+msgstr ""
+
+#: inc/custom-page-builder.php:4909
+msgid "Layout for Contact page"
+msgstr ""
+
+#: inc/custom-sidebars.php:18 inc/metaboxes.php:351 inc/metaboxes.php:389
+msgid "Custom Widget Area"
+msgstr ""
+
+#: inc/custom-sidebars.php:42
+msgid "Name of new widget area"
+msgstr ""
+
+#: inc/custom-sidebars.php:43
+msgid "Add Widget Area"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "General"
+msgstr ""
+
+#: inc/customizer.php:128
+msgid "Loader"
+msgstr ""
+
+#: inc/customizer.php:133
+msgid "yes"
+msgstr ""
+
+#: inc/customizer.php:141
+msgid "Enable Loader"
+msgstr ""
+
+#: inc/customizer.php:152
+msgid "rotating-plane"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "Loader Animation"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Loader Icon Color"
+msgstr ""
+
+#: inc/customizer.php:184
+msgid "Loader Background Color"
+msgstr ""
+
+#: inc/customizer.php:197
+msgid "Header & Navigation"
+msgstr ""
+
+#: inc/customizer.php:204
+msgid "Logos"
+msgstr ""
+
+#: inc/customizer.php:216
+msgid "Header Logo"
+msgstr ""
+
+#: inc/customizer.php:229
+msgid "Header Logo Width"
+msgstr ""
+
+#: inc/customizer.php:231
+msgid ""
+"Enter the actual width of your logo image in pixels. Used for retina "
+"displays."
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "Header Logo Small"
+msgstr ""
+
+#: inc/customizer.php:258
+msgid "Header Logo Width - Small "
+msgstr ""
+
+#: inc/customizer.php:260 inc/customizer.php:289
+msgid ""
+"Enter the actual width of your logo image in pixels. Used for retina "
+"displays. "
+msgstr ""
+
+#: inc/customizer.php:274
+msgid "Header Logo Mobile"
+msgstr ""
+
+#: inc/customizer.php:287
+msgid "Header Logo Width - Mobile "
+msgstr ""
+
+#: inc/customizer.php:303
+msgid "Favicon"
+msgstr ""
+
+#: inc/customizer.php:315
+msgid "Position & Style"
+msgstr ""
+
+#: inc/customizer.php:320 inc/customizer.php:709
+msgid "full-width"
+msgstr ""
+
+#: inc/customizer.php:328
+msgid "Header Layout"
+msgstr ""
+
+#: inc/customizer.php:340
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer.php:350
+msgid "Main Menu Color"
+msgstr ""
+
+#: inc/customizer.php:359
+msgid "Main Menu Hover Color"
+msgstr ""
+
+#: inc/customizer.php:368 inc/metaboxes.php:49
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/customizer.php:377
+msgid "Drop Down Background Color"
+msgstr ""
+
+#: inc/customizer.php:386
+msgid "Drop Down Link Color"
+msgstr ""
+
+#: inc/customizer.php:395
+msgid "Drop Down Link Hover Color"
+msgstr ""
+
+#: inc/customizer.php:404
+msgid "Drop Down Divider Color"
+msgstr ""
+
+#: inc/customizer.php:413 inc/customizer.php:816
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer.php:424
+msgid "Slide Panel (Mobile Nav)"
+msgstr ""
+
+#: inc/customizer.php:436
+msgid "Slide Panel Background Image"
+msgstr ""
+
+#: inc/customizer.php:444
+msgid "Slide Panel Background Color"
+msgstr ""
+
+#: inc/customizer.php:453
+msgid "Slide Panel Text Color"
+msgstr ""
+
+#: inc/customizer.php:462
+msgid "Slide Panel Link Color"
+msgstr ""
+
+#: inc/customizer.php:471
+msgid "Slide Panel Link Hover Color"
+msgstr ""
+
+#: inc/customizer.php:480
+msgid "Slide Panel Divider Color"
+msgstr ""
+
+#: inc/customizer.php:492
+msgid "Search"
+msgstr ""
+
+#: inc/customizer.php:504
+msgid "Enable Search Icon"
+msgstr ""
+
+#: inc/customizer.php:505
+msgid "Shows the search icon in the top header."
+msgstr ""
+
+#: inc/customizer.php:519
+msgid "Scroll to Top Button"
+msgstr ""
+
+#: inc/customizer.php:531
+msgid "Enable Scroll to Top Button"
+msgstr ""
+
+#: inc/customizer.php:532
+msgid ""
+"Shows a button in the lower right that allows the user to scroll to the top."
+msgstr ""
+
+#: inc/customizer.php:544
+msgid "Scroll to Top Background Color"
+msgstr ""
+
+#: inc/customizer.php:553
+msgid "Scroll to Top Arrow Color"
+msgstr ""
+
+#: inc/customizer.php:565
+msgid "Page Titles"
+msgstr ""
+
+#: inc/customizer.php:576
+msgid "Text Alignment"
+msgstr ""
+
+#: inc/customizer.php:577
+msgid "Set the text alignment of all page titles."
+msgstr ""
+
+#: inc/customizer.php:591 inc/customizer.php:1179
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer.php:601 inc/customizer.php:1029 inc/customizer.php:1159
+#: inc/metaboxes.php:56
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer.php:612
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer.php:619
+msgid "Post Meta"
+msgstr ""
+
+#: inc/customizer.php:631
+msgid "Show Date"
+msgstr ""
+
+#: inc/customizer.php:632
+msgid "Show the date on each post"
+msgstr ""
+
+#: inc/customizer.php:650
+msgid "Show Author"
+msgstr ""
+
+#: inc/customizer.php:651
+msgid "Show the author on each post."
+msgstr ""
+
+#: inc/customizer.php:669
+msgid "Show Categories"
+msgstr ""
+
+#: inc/customizer.php:670
+msgid "Show the categories on each post."
+msgstr ""
+
+#: inc/customizer.php:688
+msgid "Show Comment Count"
+msgstr ""
+
+#: inc/customizer.php:689
+msgid "Show the comment count on each post."
+msgstr ""
+
+#: inc/customizer.php:717
+msgid "Archive Layout"
+msgstr ""
+
+#: inc/customizer.php:737
+msgid "Show Excerpts"
+msgstr ""
+
+#: inc/customizer.php:752
+msgid "Shop"
+msgstr ""
+
+#: inc/customizer.php:759 inc/customizer.php:771 inc/customizer.php:1126
+#: inc/metaboxes.php:37 inc/page-builder-widgets/blog.php:184
+#: inc/page-builder-widgets/portfolio.php:295
+#: inc/page-builder-widgets/testimonials.php:152
+#: inc/page-builder-widgets/woocommerce-products.php:182
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer.php:772
+msgid "Choose the layout of your shop pages."
+msgstr ""
+
+#: inc/customizer.php:789
+msgid "Products Per Page"
+msgstr ""
+
+#: inc/customizer.php:799 inc/customizer.php:1153
+msgid "Style"
+msgstr ""
+
+#: inc/customizer.php:806
+msgid "Product Hover Color"
+msgstr ""
+
+#: inc/customizer.php:829
+msgid "Social Sharing"
+msgstr ""
+
+#: inc/customizer.php:840
+msgid "Show Sharing Links on Posts"
+msgstr ""
+
+#: inc/customizer.php:858
+msgid "Show Sharing Links on Projects"
+msgstr ""
+
+#: inc/customizer.php:876
+msgid "Show Sharing Links on Pages"
+msgstr ""
+
+#: inc/customizer.php:894
+msgid "Show Facebook"
+msgstr ""
+
+#: inc/customizer.php:912
+msgid "Show Twitter"
+msgstr ""
+
+#: inc/customizer.php:930
+msgid "Show Google Plus"
+msgstr ""
+
+#: inc/customizer.php:948
+msgid "Show LinkedIn"
+msgstr ""
+
+#: inc/customizer.php:966
+msgid "Show Pinterest"
+msgstr ""
+
+#: inc/customizer.php:984
+msgid "Show Tumblr"
+msgstr ""
+
+#: inc/customizer.php:998
+msgid "Other Styles"
+msgstr ""
+
+#: inc/customizer.php:1004
+msgid "Text"
+msgstr ""
+
+#: inc/customizer.php:1011
+msgid "Color"
+msgstr ""
+
+#: inc/customizer.php:1014
+msgid "Set the base text color of your site."
+msgstr ""
+
+#: inc/customizer.php:1022
+msgid "Content Area"
+msgstr ""
+
+#: inc/customizer.php:1032
+msgid "Set the background color of the content area."
+msgstr ""
+
+#: inc/customizer.php:1041
+msgid "Set the color of links that appear in the content text."
+msgstr ""
+
+#: inc/customizer.php:1048 inc/customizer.php:1189
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer.php:1058 inc/customizer.php:1199
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/customizer.php:1068
+msgid "Buttons"
+msgstr ""
+
+#: inc/customizer.php:1069
+msgid ""
+"Set the color of buttons that appear on the site. This includes form and "
+"pagination buttons."
+msgstr ""
+
+#: inc/customizer.php:1076
+msgid "Button Color"
+msgstr ""
+
+#: inc/customizer.php:1086
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/customizer.php:1097
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:1098
+msgid "Add your own custom CSS."
+msgstr ""
+
+#: inc/customizer.php:1110
+msgid "CSS"
+msgstr ""
+
+#: inc/customizer.php:1119 inc/widgets.php:59
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:1137
+msgid "Widget Columns"
+msgstr ""
+
+#: inc/customizer.php:1169
+msgid "Widget Title Color"
+msgstr ""
+
+#: inc/customizer.php:1210
+msgid "Content"
+msgstr ""
+
+#: inc/customizer.php:1222
+msgid "Primary Footer Text"
+msgstr ""
+
+#: inc/customizer.php:1237
+msgid "Secondary Footer Text"
+msgstr ""
+
+#: inc/demo-import/demo-import.php:26
+msgid "Importing demo content..."
+msgstr ""
+
+#: inc/demo-import/demo-import.php:28
+msgid ""
+"This might take several minutes. Do not leave this page before the import is "
+"completed."
+msgstr ""
+
+#: inc/demo-import/demo-import.php:32
+msgid "Import Complete!"
+msgstr ""
+
+#: inc/demo-import/demo-import.php:33
+msgid "The demo content was successfully imported."
+msgstr ""
+
+#: inc/demo-import/demo-import.php:41
+msgid ""
+"Make sure to activate all required and recommended plugins before running "
+"the demo import. If you do not plan on using WooCommerce, there is no need "
+"to install the WooCommerce plugin."
+msgstr ""
+
+#: inc/demo-import/demo-import.php:337
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: inc/demo-import/demo-import.php:359
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/demo-import/demo-import.php:384
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/demo-import/demo-import.php:431
+msgid "Imported"
+msgstr ""
+
+#: inc/demo-import/demo-import.php:434
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/demo-import/demo-import.php:441
+msgid "No Title"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/parsers.php:42
+#: inc/demo-import/wordpress-importer/parsers.php:72
+#: inc/demo-import/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/parsers.php:84
+#: inc/demo-import/wordpress-importer/parsers.php:89
+#: inc/demo-import/wordpress-importer/parsers.php:279
+#: inc/demo-import/wordpress-importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:134
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:143
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:194
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:198
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is brambled by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:310
+msgid "or bramble new user with login name:"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to bramble new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:511
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:877
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:890
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:934
+msgid "Remote server did not respond"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:940
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:947
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:952
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:958
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:1057
+msgid "Import WordPress"
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:1064
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:1079
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:1080
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: inc/demo-import/wordpress-importer/wordpress-importer.php:1154
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: inc/extras.php:72
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:53
+msgid "All Text"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:54
+msgid "Paragraph"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:55
+msgid "H1"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:56
+msgid "H2"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:57
+msgid "H3"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:58
+msgid "H4"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:59
+msgid "H5"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:60
+msgid "H6"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:62
+msgid "Blockquote"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:63
+msgid "List Items"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:64
+msgid "Page Title"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:65
+msgid "Page Subtitle"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:69
+msgid "Ultra Light"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:70
+msgid "Ultra Light Italic"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:71
+msgid "Light"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:72
+msgid "Light Italic"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:73
+msgid "Book"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:74
+msgid "Book Italic"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:75
+msgid "Regular"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:76
+msgid "Regular Italic"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:77
+msgid "Medium"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:78
+msgid "Medium Italic"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:79
+msgid "Semi-Bold"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:80
+msgid "Semi-Bold Italic"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:81
+msgid "Bold"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:82
+msgid "Bold Italic"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:83
+msgid "Extra Bold"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:84
+msgid "Extra Bold Italic"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:85
+msgid "Ultra Bold"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:86
+msgid "Ultra Bold Italic"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:133
+msgid "Typography"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:165
+msgid "CSS Selectors to Target (optional)"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:182
+msgid "Font Family"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:198
+msgid "Font Size"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:214
+msgid "Line Height"
+msgstr ""
+
+#: inc/google-fonts/gfonts.class.php:230
+msgid "Weight"
+msgstr ""
+
+#: inc/megamenu.php:45
+msgid " Icon"
+msgstr ""
+
+#: inc/metaboxes.php:29
+msgid "Header Options"
+msgstr ""
+
+#: inc/metaboxes.php:38
+msgid "Choose between a wide or narrow header"
+msgstr ""
+
+#: inc/metaboxes.php:43 inc/metaboxes.php:214
+msgid "Wide"
+msgstr ""
+
+#: inc/metaboxes.php:44
+msgid "Narrow"
+msgstr ""
+
+#: inc/metaboxes.php:63
+msgid "Menu Color"
+msgstr ""
+
+#: inc/metaboxes.php:70
+msgid "Menu Color Hover"
+msgstr ""
+
+#: inc/metaboxes.php:78
+msgid "Select a different main menu to show on this page."
+msgstr ""
+
+#: inc/metaboxes.php:85
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/metaboxes.php:86
+msgid "Select a different mobile menu to show on this page."
+msgstr ""
+
+#: inc/metaboxes.php:103
+msgid "Title Area Options"
+msgstr ""
+
+#: inc/metaboxes.php:111
+msgid "Show Title Area"
+msgstr ""
+
+#: inc/metaboxes.php:112
+msgid "Hide or show the page title area."
+msgstr ""
+
+#: inc/metaboxes.php:123
+msgid "Subtitle Text"
+msgstr ""
+
+#: inc/metaboxes.php:124
+msgid "This text will be displayed below the title on pages and projects."
+msgstr ""
+
+#: inc/metaboxes.php:130
+msgid "Hide Text"
+msgstr ""
+
+#: inc/metaboxes.php:140
+msgid "Title Image"
+msgstr ""
+
+#: inc/metaboxes.php:141
+msgid "This image will appear above the title text."
+msgstr ""
+
+#: inc/metaboxes.php:147
+msgid "Title Alignment"
+msgstr ""
+
+#: inc/metaboxes.php:152
+msgid "Center"
+msgstr ""
+
+#: inc/metaboxes.php:153
+msgid "Left"
+msgstr ""
+
+#: inc/metaboxes.php:154
+msgid "Right"
+msgstr ""
+
+#: inc/metaboxes.php:159
+msgid "Title Area Height"
+msgstr ""
+
+#: inc/metaboxes.php:160
+msgid "Set the height of the title area in pixels. (ex. 400)"
+msgstr ""
+
+#: inc/metaboxes.php:166
+msgid "Title Background Image"
+msgstr ""
+
+#: inc/metaboxes.php:173
+msgid "Enable Background Parallax"
+msgstr ""
+
+#: inc/metaboxes.php:183
+msgid "Title Text Color"
+msgstr ""
+
+#: inc/metaboxes.php:200
+msgid "Project Options"
+msgstr ""
+
+#: inc/metaboxes.php:208 inc/metaboxes.php:271 inc/metaboxes.php:299
+msgid "Featured Image Size"
+msgstr ""
+
+#: inc/metaboxes.php:209
+msgid "Select the size of the featured image for this project."
+msgstr ""
+
+#: inc/metaboxes.php:215
+msgid "Tall"
+msgstr ""
+
+#: inc/metaboxes.php:216
+msgid "Wide and Tall"
+msgstr ""
+
+#: inc/metaboxes.php:221
+msgid "Lightbox Image"
+msgstr ""
+
+#: inc/metaboxes.php:222
+msgid "This image will open if lightbox mode is enabled."
+msgstr ""
+
+#: inc/metaboxes.php:228
+msgid "Lightbox Video"
+msgstr ""
+
+#: inc/metaboxes.php:229
+msgid ""
+"Enter the URL of your video. This video will open if lightbox mode is "
+"enabled."
+msgstr ""
+
+#: inc/metaboxes.php:244
+msgid "Blog Options"
+msgstr ""
+
+#: inc/metaboxes.php:252
+msgid "Posts per Page"
+msgstr ""
+
+#: inc/metaboxes.php:253
+msgid "Select the number of posts per page."
+msgstr ""
+
+#: inc/metaboxes.php:260 inc/page-builder-widgets/blog.php:263
+msgid "Show Excerpt"
+msgstr ""
+
+#: inc/metaboxes.php:261
+msgid "Show an excerpt for each post."
+msgstr ""
+
+#: inc/metaboxes.php:272
+msgid "Select the size of the featured image for standard blog layouts."
+msgstr ""
+
+#: inc/metaboxes.php:276
+msgid "Large"
+msgstr ""
+
+#: inc/metaboxes.php:277
+msgid "Small"
+msgstr ""
+
+#: inc/metaboxes.php:291
+msgid "Post Options"
+msgstr ""
+
+#: inc/metaboxes.php:300
+msgid "Select the size of the featured image for this post on masonry layouts."
+msgstr ""
+
+#: inc/metaboxes.php:304
+msgid "Landscape"
+msgstr ""
+
+#: inc/metaboxes.php:305
+msgid "Portrait"
+msgstr ""
+
+#: inc/metaboxes.php:306
+msgid "Square"
+msgstr ""
+
+#: inc/metaboxes.php:311
+msgid "Show Featured Image"
+msgstr ""
+
+#: inc/metaboxes.php:312
+msgid "Show featured image on single post."
+msgstr ""
+
+#: inc/metaboxes.php:322
+msgid "Full Width Content"
+msgstr ""
+
+#: inc/metaboxes.php:323
+msgid "Make the content full width with no sidebar."
+msgstr ""
+
+#: inc/metaboxes.php:343
+msgid "Sidebar Options"
+msgstr ""
+
+#: inc/metaboxes.php:352
+msgid "Select a custom widget area to show in this sidebar."
+msgstr ""
+
+#: inc/metaboxes.php:370
+msgid "Footer Options"
+msgstr ""
+
+#: inc/metaboxes.php:378
+msgid "Hide Footer"
+msgstr ""
+
+#: inc/metaboxes.php:379
+msgid "Choose to hide or show the footer on this page."
+msgstr ""
+
+#: inc/metaboxes.php:390
+msgid "Select a custom widget area to show in this footer."
+msgstr ""
+
+#: inc/page-builder-widgets/blog.php:24
+msgid "Display blog."
+msgstr ""
+
+#: inc/page-builder-widgets/blog.php:30
+msgid "Bramble Blog"
+msgstr ""
+
+#: inc/page-builder-widgets/blog.php:163
+#: inc/page-builder-widgets/portfolio.php:241
+#: inc/page-builder-widgets/testimonials.php:145
+#: inc/page-builder-widgets/woocommerce-products.php:175
+msgid "Name"
+msgstr ""
+
+#: inc/page-builder-widgets/blog.php:166
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/page-builder-widgets/blog.php:170
+msgid "Category (leave blank to show all)"
+msgstr ""
+
+#: inc/page-builder-widgets/blog.php:197
+#: inc/page-builder-widgets/portfolio.php:308
+#: inc/page-builder-widgets/testimonials.php:165
+#: inc/page-builder-widgets/woocommerce-products.php:195
+msgid "Columns"
+msgstr ""
+
+#: inc/page-builder-widgets/blog.php:210
+#: inc/page-builder-widgets/testimonials.php:178
+#: inc/page-builder-widgets/woocommerce-products.php:261
+msgid "Content Alignment"
+msgstr ""
+
+#: inc/page-builder-widgets/blog.php:223
+#: inc/page-builder-widgets/portfolio.php:335
+#: inc/page-builder-widgets/woocommerce-products.php:208
+msgid "Order By"
+msgstr ""
+
+#: inc/page-builder-widgets/blog.php:236
+#: inc/page-builder-widgets/portfolio.php:348
+#: inc/page-builder-widgets/testimonials.php:191
+#: inc/page-builder-widgets/woocommerce-products.php:221
+msgid "Order"
+msgstr ""
+
+#: inc/page-builder-widgets/blog.php:249
+msgid "Boxed"
+msgstr ""
+
+#: inc/page-builder-widgets/blog.php:281
+#: inc/page-builder-widgets/testimonials.php:209
+#: inc/page-builder-widgets/woocommerce-products.php:279
+msgid "Carousel Nav Color"
+msgstr ""
+
+#: inc/page-builder-widgets/portfolio.php:24
+msgid "Display portfolio projects."
+msgstr ""
+
+#: inc/page-builder-widgets/portfolio.php:30
+msgid "Bramble Portfolio"
+msgstr ""
+
+#: inc/page-builder-widgets/portfolio.php:89
+#: inc/page-builder-widgets/portfolio.php:122 inc/template-tags.php:486
+msgid "All"
+msgstr ""
+
+#: inc/page-builder-widgets/portfolio.php:160
+msgid "Loading"
+msgstr ""
+
+#: inc/page-builder-widgets/portfolio.php:246
+msgid "Show Filter"
+msgstr ""
+
+#: inc/page-builder-widgets/portfolio.php:259
+msgid "Filter Selected Color"
+msgstr ""
+
+#: inc/page-builder-widgets/portfolio.php:264
+msgid "Filter Alignment"
+msgstr ""
+
+#: inc/page-builder-widgets/portfolio.php:277
+msgid "Number of Projects"
+msgstr ""
+
+#: inc/page-builder-widgets/portfolio.php:282
+msgid "Featured Image Proportions for Non-masonry Layout "
+msgstr ""
+
+#: inc/page-builder-widgets/portfolio.php:321
+msgid "Show only certain skills"
+msgstr ""
+
+#: inc/page-builder-widgets/portfolio.php:361
+msgid "Hover Effect"
+msgstr ""
+
+#: inc/page-builder-widgets/portfolio.php:379
+msgid "Hover Color"
+msgstr ""
+
+#: inc/page-builder-widgets/portfolio.php:384
+msgid "Hover Text Color"
+msgstr ""
+
+#: inc/page-builder-widgets/portfolio.php:389
+msgid "Show Skills on Hover"
+msgstr ""
+
+#: inc/page-builder-widgets/portfolio.php:402
+msgid "Show Load More Button"
+msgstr ""
+
+#: inc/page-builder-widgets/portfolio.php:415
+msgid "Load More Button Color"
+msgstr ""
+
+#: inc/page-builder-widgets/portfolio.php:420
+msgid "Load More Button Text Color"
+msgstr ""
+
+#: inc/page-builder-widgets/portfolio.php:425
+msgid "Enable Lightbox"
+msgstr ""
+
+#: inc/page-builder-widgets/so-price-table-widget/so-price-table-widget.php:8
+msgid "Flat"
+msgstr ""
+
+#: inc/page-builder-widgets/spacer.php:24
+msgid "Adds empty vertical space."
+msgstr ""
+
+#: inc/page-builder-widgets/spacer.php:30
+msgid "Bramble Spacer"
+msgstr ""
+
+#: inc/page-builder-widgets/spacer.php:95
+msgid "Height in pixels"
+msgstr ""
+
+#: inc/page-builder-widgets/testimonials.php:24
+msgid "Display testimonials."
+msgstr ""
+
+#: inc/page-builder-widgets/testimonials.php:30
+msgid "Bramble Testimonials"
+msgstr ""
+
+#: inc/page-builder-widgets/testimonials.php:148
+msgid "Number of Testimonials"
+msgstr ""
+
+#: inc/page-builder-widgets/woocommerce-products.php:24
+msgid "Display Woocommerce Products."
+msgstr ""
+
+#: inc/page-builder-widgets/woocommerce-products.php:30
+msgid "Bramble Woocommerce Products"
+msgstr ""
+
+#: inc/page-builder-widgets/woocommerce-products.php:178
+msgid "Number of Products"
+msgstr ""
+
+#: inc/page-builder-widgets/woocommerce-products.php:234
+msgid "Show only certain categories"
+msgstr ""
+
+#: inc/page-builder-widgets/woocommerce-products.php:248
+msgid "Show Featured"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:76
+msgid "Custom Home Page Builder"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:77 inc/plugins/siteorigin-panels.php:137
+msgid "Home Page"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:111 inc/plugins/siteorigin-panels.php:514
+msgid "Page Builder"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:277
+msgid "All Widgets"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:302
+msgid "Missing Widget"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:303
+msgid "Page Builder doesn't know about this widget."
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:307
+#, php-format
+msgid "%d seconds"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:309
+#, php-format
+msgid "%d minutes"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:311
+#, php-format
+msgid "%d hours"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:314
+#, php-format
+msgid "%d second"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:316
+#, php-format
+msgid "%d minute"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:318
+#, php-format
+msgid "%d hour"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:321
+#, php-format
+msgid "%s before"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:326
+msgid "Current"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:327
+msgid "Original"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:328
+msgid "Version restored"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:329
+msgid "Converted to editor"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:333
+msgid "Widget deleted"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:335
+msgid "Widget added"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:337
+msgid "Widget edited"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:339
+msgid "Widget duplicated"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:341
+msgid "Widget moved"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:345
+msgid "Row deleted"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:347
+msgid "Row added"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:349
+msgid "Row edited"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:351
+msgid "Row moved"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:353
+msgid "Row duplicated"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:356
+msgid "Cell resized"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:359
+msgid "Prebuilt layout loaded"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:363
+msgid ""
+"Are you sure you want to overwrite your current content? This can be undone "
+"in the builder history."
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:364
+msgid "Loading prebuilt layout"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:365
+msgid "Would you like to copy this editor's existing content to Page Builder?"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:366
+msgid ""
+"Would you like to clear your Page Builder content and revert to using the "
+"standard visual editor?"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:368
+msgid "Layout Builder Widget"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:370
+msgid "Are you sure?"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:371
+msgid "Search Results For: "
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:375
+msgid "Add Widget Below"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:376
+msgid "Add Widget to Cell"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:377
+msgid "Search Widgets"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:380
+msgid "Column"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:388
+msgid "Page Builder layouts"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:389
+msgid "Error uploading or importing file."
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:436
+msgid "Untitled Widget"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:861 inc/template-tags.php:297
+#: inc/template-tags.php:345
+msgid "Read More"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:1244
+msgid "Edit Home Page"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:1336
+#, php-format
+msgid "You need to install 1{%1$s} to use the widget 2{%2$s}."
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:1342
+msgid ""
+"Save and reload this page to start using the widget after you've installed "
+"it."
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:1359
+#, php-format
+msgid ""
+"The widget 1{%1$s} is not available. Please try locate and install the "
+"missing plugin. Post on the 2{support forums} if you need help."
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:1397
+msgid "Support Forum"
+msgstr ""
+
+#: inc/plugins/siteorigin-panels.php:1398
+msgid "Newsletter"
+msgstr ""
+
+#: inc/template-tags.php:58
+msgid "View All"
+msgstr ""
+
+#: inc/template-tags.php:131
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:135
+msgctxt "Next post link"
+msgid "%title"
+msgstr ""
+
+#: inc/template-tags.php:146
+msgctxt "Previous post link"
+msgid "%title"
+msgstr ""
+
+#: inc/template-tags.php:188
+msgid "By "
+msgstr ""
+
+#: inc/template-tags.php:199
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: inc/template-tags.php:402
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:410
+msgid "Reply"
+msgstr ""
+
+#: inc/template-tags.php:411
+msgid "Log in to reply"
+msgstr ""
+
+#: inc/template-tags.php:636
+msgid "Share on Facebook"
+msgstr ""
+
+#: inc/template-tags.php:648
+msgid "Share on Twitter"
+msgstr ""
+
+#: inc/template-tags.php:656
+msgid "Share on Google+"
+msgstr ""
+
+#: inc/template-tags.php:664
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: inc/template-tags.php:672
+msgid "Share on Tumblr"
+msgstr ""
+
+#: inc/template-tags.php:681
+msgid "Share on Pinterest"
+msgstr ""
+
+#: inc/widgets.php:19
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widgets.php:21
+msgid "This is the widget area for blog posts."
+msgstr ""
+
+#: inc/widgets.php:31
+msgid "This is the widget area for shop pages."
+msgstr ""
+
+#: inc/widgets.php:39
+msgid "Slide Panel"
+msgstr ""
+
+#: inc/widgets.php:41
+msgid "This is the widget area for the mobile slide panel."
+msgstr ""
+
+#: inc/widgets.php:49
+msgid "Header"
+msgstr ""
+
+#: inc/widgets.php:51
+msgid "This is the widget area for the header."
+msgstr ""
+
+#: inc/widgets.php:61
+msgid "This is the default widget area for the footer."
+msgstr ""
+
+#: inc/woocommerce-functions.php:56
+msgid "Buy Now"
+msgstr ""
+
+#: page.php:59 single-project.php:60 templates/content-single.php:20
+#: templates/template-page-with-sidebar.php:54
+msgid "Pages:"
+msgstr ""
+
+#: search.php:12
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform-header.php:8
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: templates/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: templates/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: templates/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: templates/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: templates/content-post-masonry.php:25 templates/content.php:17
+msgid "No Comments"
+msgstr ""
+
+#: templates/content-post-masonry.php:25 templates/content.php:17
+msgid "1 Comment"
+msgstr ""
+
+#: templates/content-post-masonry.php:25 templates/content.php:17
+msgid "% Comments"
+msgstr ""
+
+#: templates/content-posts-home.php:10
+msgid "Recent Posts"
+msgstr ""
+
+#: templates/content-product-small.php:30
+msgid "Sale"
+msgstr ""
+
+#: woocommerce/global/form-login.php:23
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:29
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:40
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:43
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:47
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Bramble"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://bramble.themetrust.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Bramble is a multipurpose WordPress theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeTrust.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themetrust.com"
+msgstr ""

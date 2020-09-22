@@ -1,0 +1,181 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">project</custom-type>
+		<custom-type translate="1">testimonial</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">skill</taxonomy>
+	</taxonomies>
+	<custom-fields>
+		<custom-field action="translate">_bramble_header_options</custom-field>
+		<custom-field action="translate">_bramble_header_hide</custom-field>
+		<custom-field action="translate">_bramble_header_transparent_bg</custom-field>
+		<custom-field action="translate">_bramble_header_color_scheme</custom-field>
+		<custom-field action="translate">_bramble_header_menu_color</custom-field>
+		<custom-field action="translate">_bramble_header_menu_hover_color</custom-field>
+		<custom-field action="translate">_bramble_header_menu_main</custom-field>
+		<custom-field action="translate">_bramble_header_menu_mobile</custom-field>
+		<custom-field action="translate">_bramble_header_menu_left</custom-field>
+		<custom-field action="translate">_bramble_title_options</custom-field>
+		<custom-field action="translate">_bramble_title_show</custom-field>
+		<custom-field action="translate">_bramble_title_subtitle</custom-field>
+		<custom-field action="translate">_bramble_title_hide_text</custom-field>
+		<custom-field action="translate">_bramble_title_img</custom-field>
+		<custom-field action="translate">_bramble_title_alignment</custom-field>
+		<custom-field action="translate">_bramble_title_area_height</custom-field>
+		<custom-field action="translate">_bramble_title_bg_img</custom-field>
+		<custom-field action="translate">_bramble_title_parallax</custom-field>
+		<custom-field action="translate">_bramble_title_color</custom-field>
+		<custom-field action="translate">_bramble_project_options</custom-field>
+		<custom-field action="translate">_bramble_project_featured_image_size</custom-field>
+		<custom-field action="translate">_bramble_project_lightbox_img</custom-field>
+		<custom-field action="translate">_bramble_project_lightbox_video</custom-field>
+		<custom-field action="translate">_bramble_blog_options</custom-field>
+		<custom-field action="translate">_bramble_blog_posts_per_page</custom-field>
+		<custom-field action="translate">_bramble_blog_show_excerpt</custom-field>
+		<custom-field action="translate">_bramble_blog_featured_img_size</custom-field>
+		<custom-field action="translate">_bramble_post_options</custom-field>
+		<custom-field action="translate">_bramble_post_featured_image_size</custom-field>
+		<custom-field action="translate">_bramble_post_show_featured_img</custom-field>
+		<custom-field action="translate">_bramble_post_full_width</custom-field>
+		<custom-field action="translate">_bramble_sidebar_options</custom-field>
+		<custom-field action="translate">_bramble_sidebar_custom_widget_area</custom-field>
+		<custom-field action="translate">_bramble_footer_options</custom-field>
+		<custom-field action="translate">_bramble_footer_hide</custom-field>
+		<custom-field action="translate">_bramble_footer_custom_widget_area</custom-field>
+	</custom-fields>
+	<admin-texts>
+		<key name="theme_mods_bramble">
+			<key name="bramble_general">
+				<key name="bramble_loader">
+					<key name="bramble_loader_enabled" />
+					<key name="bramble_loader_animation" />
+					<key name="bramble_loader_color" />
+					<key name="bramble_loader_bkg_color" />
+				</key>
+			</key>
+			<key name="bramble_layout">
+				<key name="bramble_site_width" />	
+			</key>
+			<key name="bramble_header_navigation">
+				<key name="bramble_logos">
+					<key name="bramble_logo_top" />
+					<key name="bramble_logo_top_width" />
+					<key name="bramble_logo_top_light" />
+					<key name="bramble_logo_top_width_light" />
+					<key name="bramble_logo_sticky" />
+					<key name="bramble_logo_sticky_width" />
+					<key name="bramble_logo_mobile_width" />
+					<key name="bramble_favicon" />
+				</key>
+				<key name="bramble_header">
+					<key name="bramble_header_top_layout" />
+					<key name="bramble_sticky_header" />
+					<key name="bramble_header_color_scheme" />
+					<key name="bramble_top_header_height" />
+					<key name="bramble_sticky_header_height" />
+					<key name="bramble_header_bkg_color" />
+					<key name="bramble_sticky_header_bkg_color" />
+					<key name="bramble_main_menu_color" />
+					<key name="bramble_main_menu_hover_color" />
+					<key name="bramble_sticky_main_menu_color" />
+					<key name="bramble_sticky_main_menu_hover_color" />
+					<key name="bramble_site_title_color" />
+					<key name="bramble_sticky_site_title_color" />
+					<key name="bramble_drop_down_bg_color" />
+					<key name="bramble_drop_down_link_color" />
+					<key name="bramble_drop_down_link_hover_color" />
+					<key name="bramble_drop_down_divider_color" />
+					<key name="bramble_header_accent_color" />
+				</key>
+				<key name="bramble_slide_panel">
+					<key name="bramble_enable_slide_panel" />
+					<key name="bramble_slide_panel_background" />
+					<key name="bramble_slide_panel_bg_color" />
+					<key name="bramble_slide_panel_text_color" />
+					<key name="bramble_slide_panel_link_color" />
+					<key name="bramble_slide_panel_link_hover_color" />
+					<key name="bramble_slide_panel_divider_color" />
+				</key>
+				<key name="bramble_header_search">
+					<key name="bramble_enable_header_search" />
+				</key>
+				<key name="bramble_header_scroll_to_top">
+					<key name="bramble_enable_header_scroll_to_top" />
+					<key name="bramble_scroll_to_top_bg_color" />
+					<key name="bramble_scroll_to_top_arrow_color" />
+				</key>
+				<key name="bramble_mobile_header">
+					<key name="bramble_mobile_header_breakpoint" />
+				</key>
+			</key>
+			<key name="bramble_page_titles">
+				<key name="bramble_page_title_alignment" />
+				<key name="bramble_page_title_text_color" />	
+				<key name="bramble_page_title_bg_color" />	
+			</key>
+			<key name="bramble_blog">
+				<key name="bramble_post_meta">
+					<key name="bramble_show_meta_date" />
+					<key name="bramble_show_meta_author" />
+					<key name="bramble_show_meta_categories" />
+					<key name="bramble_show_meta_comments" />
+				</key>
+				<key name="bramble_archives">
+					<key name="bramble_archive_layout" />
+					<key name="bramble_archive_show_excerpt" />
+				</key>
+			</key>
+			<key name="bramble_shop">
+				<key name="bramble_shop_layout_section">
+					<key name="bramble_shop_layout" />
+					<key name="bramble_shop_product_count" />
+				</key>
+				<key name="bramble_shop_style_section">
+					<key name="bramble_product_hover_color" />
+					<key name="bramble_shop_accent_color" />
+				</key>
+			</key>
+			<key name="bramble_social_sharing">
+				<key name="bramble_show_social_on_posts" />
+				<key name="bramble_show_social_on_projects" />	
+				<key name="bramble_show_social_on_pages" />	
+				<key name="bramble_show_facebook" />	
+				<key name="bramble_show_twitter" />	
+				<key name="bramble_show_google" />	
+				<key name="bramble_show_linkedin" />	
+				<key name="bramble_show_pinterest" />	
+				<key name="bramble_show_tumblr" />	
+			</key>
+			<key name="bramble_other_styles">
+				<key name="bramble_links">
+					<key name="bramble_link_color" />
+					<key name="bramble_link_hover_color" />
+				</key>
+				<key name="bramble_buttons">
+					<key name="bramble_button_color" />
+					<key name="bramble_button_text_color" />
+				</key>
+			</key>
+			<key name="bramble_css">
+				<key name="bramble_custom_css" />
+			</key>
+			<key name="bramble_footer">
+				<key name="bramble_footer_layout">
+					<key name="bramble_footer_columns" />
+				</key>
+				<key name="bramble_footer_style">
+					<key name="bramble_footer_bg_color" />
+					<key name="bramble_footer_widget_title_color" />
+					<key name="bramble_footer_text_color" />
+					<key name="bramble_footer_link_color" />
+					<key name="bramble_footer_link_hover_color" />
+				</key>
+				<key name="bramble_footer_text">
+					<key name="bramble_footer_left" />
+					<key name="bramble_footer_right" />
+				</key>
+			</key>
+		</key>
+	</admin-texts>
+</wpml-config>
